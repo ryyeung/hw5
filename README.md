@@ -1,0 +1,1 @@
+Compile normally, final submission SHA includes checkpoint SHA
