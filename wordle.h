@@ -20,4 +20,10 @@ std::set<std::string> wordle(
     const std::string& floating,
     const std::set<std::string>& dict);
 
+    // std::set<std::string> wordle_helper(
+    // const std::string& in,
+    // const std::string& floating, 
+    // //possible letters that know exist in word, can have duplicates
+    // const std::set<std::string>& dict, unsigned int index);
+
 #endif
